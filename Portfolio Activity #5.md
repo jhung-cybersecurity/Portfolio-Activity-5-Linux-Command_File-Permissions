@@ -1,9 +1,5 @@
 # File Permissions in Linux
 
-## Project description
-
-
-
 ## Check file and directory details
 
 ![image](https://github.com/jhung-cybersecurity/Linux-Commands_File-Permissions/assets/139807613/6d8a80aa-c547-47d3-9f54-c07831c8567a)
