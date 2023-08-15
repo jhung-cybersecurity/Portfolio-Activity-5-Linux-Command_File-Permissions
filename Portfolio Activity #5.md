@@ -75,9 +75,8 @@ However, by taking extra steps, I am able to showcase my full understanding of t
 3. To fix that, I use `chmod g-x drafts`.
 4. I check my work using `ls -l`.
 
-
-
-
 ## Summary
 
+Throughout this Linux showcase, I am constantly checking my current path using `pwd` and my work using `ls -l` or `ls -la` to display hidden files. The permission strings are indicated by 10 letters, of which are `drwxrwxrwx` and is replaced by `-` if there's no permissions. In the case of the first letter, the `-` indicates a file instead of a directory. In order to add or remove permissions, `chmod` is used. More specifically, `chmod u-r,g-r,o-r project.txt` indicates that `user`, `group` and `other` will have read permissions removed. This can also be achieved by the `=` command which will look like `chmod u=r project.txt`. However, this will rewrite the permission.  
 
+Changing permission is an important and necessary knowledge in the field of cybersecurity and I hope that I am able to showcase my understanding of this subject.
